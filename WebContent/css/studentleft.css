@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: cadetblue;
+}
+#left{
+	height: 800px;
+}
+#left_top{
+	width: 120px;
+	height: 20px;
+	margin: 20px 0 0 32px;
+}
+#left_middle{
+	width: 120px;
+	height: 600px;
+	margin: 10px 0 0 32px;
+	background-color: white;
+	border: 1px solid green;
+}
+p{
+	width: 120px;
+	text-align: center;
+	color: white;
+}
+#left_menu{
+	width: 120px;
+	text-align: center;
+	list-style-type: none;
+	margin: 20px 0 0 0;
+	color: cadetblue;
+}
+a{
+	text-decoration: none;
+	color: cadetblue;
+}
+#bottom{
+	color: #008000;
+	margin: -50px 0 0 32px;
+}

@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	/*background-color: cadetblue;*/
+}
+h4{
+	text-align: center;
+}
+td{
+	text-align: center;
+	border: 1px solid black;
+}
+table{
+	margin: 0 auto;
+}
+a{
+	text-decoration: none;
+}
+#add1{
+	width: 688px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: goldenrod;
+}
+#add2{
+	width: 709px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: goldenrod;
+}
+#add3{
+	width: 922px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: goldenrod;
+}
+#add4{
+	width: 138px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: goldenrod;
+}
+#add5{
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+	background-color: goldenrod;
+}
+#btn{
+	width: 200px;
+	text-align: center;
+	margin: 0 auto;
+}

@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h4{
+	height: 50px;
+	width: 900px;
+	text-align: center;
+}
+p{
+	background-color: beige;
+	border: 0.5px solid black;
+}
+td{
+	background-color: burlywood;
+	border: 0.5px solid black;
+}
+th{
+	background-color: beige;
+	border: 0.5px solid black;
+}
+#right {
+    margin: 0px auto;
+    padding: 0px 40px 5px 40px;
+    height: auto!important;
+    background: #FFFFFF;
+}
